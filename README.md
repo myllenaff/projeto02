@@ -6,7 +6,7 @@
 
 Projeto 02 construído na Jornada Explorer do Rocketseat.
 
-[👉Clique aqui para acessar](https://myllenaff.github.io/meuprojeto02/)
+[👉Clique aqui para acessar](https://myllenaff.github.io/projeto02/)
 
 ## 💻 Tecnologias:
 
